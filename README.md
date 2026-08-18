@@ -3,7 +3,7 @@
 This repository accompanies the paper:
 
 > **PAIR-Fuse: Prompt-guided Adaptive Integration of LLM and KG Embedding Rankings for Knowledge Graph Completion**
-> Xiuxia Tian, Jingjing Wang, Ao-Ying Zhou
+> Jingjing Wang, Xiuxia Tian
 
 It contains the Qt/C++-Edu knowledge graph, the candidate sets, the prompts, and the code needed to reproduce every number in the paper.
 
