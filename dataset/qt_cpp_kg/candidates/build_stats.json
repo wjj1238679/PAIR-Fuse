@@ -1,0 +1,14 @@
+{
+  "head": {
+    "N": 348,
+    "K": 80,
+    "retriever_gold_coverage": 0.6092,
+    "gold_injected_eval_version": 136
+  },
+  "tail": {
+    "N": 348,
+    "K": 80,
+    "retriever_gold_coverage": 0.658,
+    "gold_injected_eval_version": 119
+  }
+}

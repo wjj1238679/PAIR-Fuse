@@ -1,0 +1,348 @@
+CSocket类	/类/类/继承	CAsyncSocket类
+串口线程类	/类/类/继承	CWinThread类
+组件	/类/类/继承	IUnknown接口
+派生类B	/类/类/继承	A
+CStdioFile类	/类/类/继承	CFile类
+Close	/类/类/继承	CFile
+CRegularDllApp类	/类/类/继承	CWinApp类
+Rectangle	/类/类/继承	Point类
+Rectangle类	/类/类/继承	Point类
+Derived类	/类/类/继承	Basel
+Car类	/类/类/继承	Conveyance类
+Student类	/类/类/继承	Person类
+Teacher类	/类/类/继承	Person类
+QDialog类	/类/类/继承	QWidget
+QWidget	/类/类/继承	QObject
+事件类	/类/类/继承	QEvent类
+DataStructure类	/方法/原理/应用	LinkedList
+DataStructure类	/方法/原理/应用	BinaryTree
+BinaryTree	/原理/原理/并列	LinkedList
+MLFramework类	/方法/原理/应用	DataLoader
+MLFramework类	/方法/原理/应用	Model
+Model	/原理/原理/并列	DataLoader
+ImageLibrary类	/方法/原理/应用	ImageReader
+ImageLibrary类	/方法/原理/应用	ImageProcessor
+ImageProcessor	/原理/原理/并列	ImageReader
+控制器类	/类/类/继承	ControllerBase
+数据绑定	/类/类/继承	INotifyPropertyChanged
+Connect	/类/类/继承	NetworkClient
+Execute	/类/类/继承	DataAccessLayer
+Play	/类/类/继承	AudioManager
+对象	/类/类/继承	最远的基类
+类	/类/类/继承	抽象基类
+类	/类/类/继承	模板
+类	/类/类/继承	静态成员
+C++	/方法/原理/应用	VisualStudio集成开发环境
+C++	/方法/原理/应用	BoostC++库
+C++	/方法/原理/应用	Qt跨平台应用框架
+C++	/方法/原理/应用	UE4游戏引擎
+栈	/方法/原理/应用	递归调用
+栈	/方法/原理/应用	函数调用
+内存	/概念/概念/包含	栈
+内存	/概念/概念/包含	堆
+多文件编程	/方法/原理/应用	函数声明
+函数声明	/方法/原理/应用	extern
+extern	/方法/原理/应用	函数声明
+大型项目	/方法/原理/应用	extern
+类	/方法/原理/应用	指针
+指针	/方法/原理/应用	动态内存分配
+类的成员变量	/方法/原理/应用	动态内存分配
+类	/方法/原理/应用	指针数组
+指针	/方法/原理/应用	多样化数据结构
+类的成员变量	/方法/原理/应用	指针
+构造函数	/方法/原理/应用	指针
+指针	/方法/原理/应用	动态地创建对象
+类的继承体系	/方法/原理/应用	指针
+指针	/方法/原理/应用	多态性
+类的私有成员	/方法/原理/应用	指针
+指针	/方法/原理/应用	封装性
+QPushButton	/类/类/继承	QAbstractButton
+QPropertyNodeAddedChange(Qt3DCore)	/类/类/继承	Qt3DCore::QStaticPropertyValueAddedChangeBase
+QPropertyNodeRemovedChange(Qt3DCore)	/类/类/继承	Qt3DCore::QStaticPropertyValueRemovedChangeBase
+QPropertyUpdatedChangeBase(Qt3DCore)	/类/类/继承	Qt3DCore::QSceneChange
+QPropertyValueAddedChange(Qt3DCore)	/类/类/继承	Qt3DCore::QStaticPropertyValueAddedChangeBase
+QPropertyValueAddedChangeBase(Qt3DCore)	/类/类/继承	Qt3DCore::QSceneChange
+QPropertyValueRemovedChange(Qt3DCore)	/类/类/继承	Qt3DCore::QStaticPropertyValueRemovedChangeBase
+QPropertyValueRemovedChangeBase(Qt3DCore)	/类/类/继承	Qt3DCore::QSceneChange
+QPerVertexColorMaterial(Qt3DExtras)	/类/类/继承	Qt3DRender::QMaterial
+QPhongAlphaMaterial(Qt3DExtras)	/类/类/继承	Qt3DRender::QMaterial
+QPhongMaterial(Qt3DExtras)	/类/类/继承	Qt3DRender::QMaterial
+QPlaneGeometry(Qt3DExtras)	/类/类/继承	Qt3DRender::QGeometry
+QPlaneMesh(Qt3DExtras)	/类/类/继承	Qt3DRender::QGeometryRenderer
+QPhysicalDeviceCreatedChange(Qt3DInput)	/类/类/继承	Qt3DInput::QPhysicalDeviceCreatedChangeBase
+QPhysicalDeviceCreatedChangeBase(Qt3DInput)	/类/类/继承	Qt3DCore::QNodeCreatedChangeBase
+QPaintedTextureImage(Qt3DRender)	/类/类/继承	Qt3DRender::QAbstractTextureImage
+QParameter(Qt3DRender)	/类/类/继承	Qt3DCore::QNode
+QPickEvent(Qt3DRender)	/类/类/继承	QObject
+QPickingSettings(Qt3DRender)	/类/类/继承	Qt3DCore::QNode
+QPickLineEvent(Qt3DRender)	/类/类/继承	Qt3DRender::QPickEvent
+QPickTriangleEvent(Qt3DRender)	/类/类/继承	Qt3DRender::QPickEvent
+QPointLight(Qt3DRender)	/类/类/继承	Qt3DRender::QAbstractLight
+QPolygonOffset(Qt3DRender)	/类/类/继承	Qt3DRender::QRenderState
+QThread::finished()	/事件/事件/触发	线程结束事件
+QML	/语法/语法/作用域	Qt 对象树
+QML	/语法/语法/作用域	信号与属性绑定
+std::sort	/函数/函数/调用	比较器
+std::stable_sort	/函数/函数/调用	比较器
+std::transform	/函数/函数/调用	一元函数
+事件循环	/语法/语法/作用域	Qt 事件处理
+std::optional	/概念/概念/包含	可能缺失的值
+std::variant	/概念/概念/包含	联合类型
+QFile	/函数/函数/调用	open
+QFile	/函数/函数/调用	readAll
+QFile	/函数/函数/调用	write
+QtConcurrent 模块	/模块/模块/包含	QtConcurrent::run
+QtConcurrent 模块	/模块/模块/包含	QFuture
+QtConcurrent 模块	/模块/模块/包含	QFutureWatcher
+QtCharts 模块	/模块/模块/包含	QChart
+QtCharts 模块	/模块/模块/包含	QLineSeries
+QtCharts 模块	/模块/模块/包含	QBarSeries
+C++ 模板	/概念/概念/包含	SFINAE
+C++ 模板	/概念/概念/包含	CRTP
+C++ 模板	/概念/概念/包含	偏特化
+C++ 模板	/概念/概念/包含	部分特化
+C++ 模板	/概念/概念/包含	可变参数模板
+C++ 类型萃取	/概念/概念/包含	std::enable_if
+C++ 类型萃取	/概念/概念/包含	std::integral_constant
+C++ 类型萃取	/概念/概念/包含	std::true_type
+C++ 类型萃取	/概念/概念/包含	std::false_type
+C++ 类型萃取	/概念/概念/包含	std::is_same
+C++ 类型萃取	/概念/概念/包含	std::remove_reference
+C++ 类型萃取	/概念/概念/包含	std::decay
+内存模型	/概念/概念/包含	std::memory_order_relaxed
+内存模型	/概念/概念/包含	std::memory_order_acquire
+内存模型	/概念/概念/包含	std::memory_order_release
+内存模型	/概念/概念/包含	std::memory_order_seq_cst
+原子操作	/概念/概念/包含	std::atomic_flag
+原子操作	/概念/概念/包含	std::atomic_thread_fence
+时间库	/概念/概念/包含	std::chrono::time_point
+时间库	/概念/概念/包含	std::chrono::duration_cast
+正则表达式	/概念/概念/包含	std::regex
+正则表达式	/概念/概念/包含	std::smatch
+正则表达式	/函数/函数/调用	std::regex_match
+正则表达式	/函数/函数/调用	std::regex_search
+文件系统	/概念/概念/包含	std::filesystem::exists
+文件系统	/概念/概念/包含	std::filesystem::create_directories
+异常安全	/概念/概念/包含	强保证
+异常安全	/概念/概念/包含	基本保证
+RAII	/概念/概念/包含	资源自动释放
+智能指针	/概念/概念/包含	std::weak_ptr
+智能指针	/概念/概念/包含	std::enable_shared_from_this
+并发同步	/概念/概念/包含	std::lock_guard
+并发同步	/概念/概念/包含	std::unique_lock
+并发同步	/函数/函数/调用	std::lock
+条件变量	/函数/函数/调用	wait
+条件变量	/函数/函数/调用	notify_one
+条件变量	/函数/函数/调用	notify_all
+线程池	/概念/概念/包含	任务队列
+线程池	/概念/概念/包含	工作线程
+编译期计算	/概念/概念/包含	constexpr 函数
+编译期计算	/概念/概念/包含	模板元编程
+C++20 Ranges	/概念/概念/包含	views::filter
+C++20 Ranges	/概念/概念/包含	views::transform
+C++20 Ranges	/概念/概念/包含	views::take
+C++20 概念	/概念/概念/包含	std::same_as
+C++20 概念	/概念/概念/包含	std::integral
+协程	/概念/概念/包含	co_await
+协程	/概念/概念/包含	co_yield
+协程	/概念/概念/包含	co_return
+内存对齐	/概念/概念/包含	alignas
+内存对齐	/概念/概念/包含	alignof
+强枚举	/概念/概念/包含	enum class
+字面量	/概念/概念/包含	用户自定义字面量
+Qt 元对象系统	/概念/概念/包含	Q_OBJECT
+Qt 元对象系统	/概念/概念/包含	QMetaObject
+Qt 元对象系统	/概念/概念/包含	QMetaProperty
+Qt 元对象系统	/概念/概念/包含	QMetaMethod
+Qt 信号槽	/函数/函数/调用	QObject::connect
+Qt 信号槽	/概念/概念/包含	QueuedConnection
+Qt 信号槽	/概念/概念/包含	DirectConnection
+Qt 信号槽	/概念/概念/包含	UniqueConnection
+Qt 线程	/函数/函数/调用	QObject::moveToThread
+Qt 线程	/模块/模块/依赖	QThread
+Qt 事件	/概念/概念/包含	QEvent::Type
+Qt 事件	/函数/函数/调用	QCoreApplication::postEvent
+Qt 事件	/函数/函数/调用	QCoreApplication::processEvents
+Qt 资源系统	/概念/概念/包含	.qrc
+Qt 资源系统	/函数/函数/调用	QResource::registerResource
+Qt 国际化	/函数/函数/调用	QObject::tr
+Qt 国际化	/函数/函数/调用	QTranslator::load
+Qt 国际化	/模块/模块/依赖	.ts
+Qt 国际化	/模块/模块/依赖	.qm
+Qt MVC	/模块/模块/包含	QStandardItemModel
+Qt MVC	/模块/模块/包含	QSortFilterProxyModel
+Qt MVC	/模块/模块/包含	QItemSelectionModel
+Qt MVC	/类/类/继承	QStandardItemModel
+Qt MVC	/模块/模块/依赖	QAbstractItemModel
+Qt Quick	/模块/模块/包含	QQuickView
+Qt Quick	/模块/模块/包含	QQmlApplicationEngine
+Qt Quick	/模块/模块/包含	QQuickItem
+Qt Quick	/模块/模块/包含	Connections
+Qt Quick	/语法/语法/作用域	属性绑定
+Qt Quick	/语法/语法/作用域	信号处理器
+Qt Quick	/函数/函数/调用	QMetaObject::invokeMethod
+Qt Quick Controls	/模块/模块/包含	Button
+Qt Quick Controls	/模块/模块/包含	TextField
+Qt Quick Controls	/模块/模块/包含	ComboBox
+Qt Quick Controls	/模块/模块/包含	ListView
+QNetworkAccessManager	/模块/模块/依赖	QSslConfiguration
+QSslConfiguration	/模块/模块/包含	QSslCertificate
+QSslConfiguration	/模块/模块/包含	QSslKey
+Qt 网络	/函数/函数/调用	QNetworkRequest::setHeader
+Qt 网络	/函数/函数/调用	QNetworkReply::readAll
+Qt 文件	/函数/函数/调用	QFile::open
+Qt 文件	/函数/函数/调用	QFile::readAll
+Qt 文件	/函数/函数/调用	QFile::write
+Qt JSON	/函数/函数/调用	QJsonDocument::fromJson
+Qt JSON	/函数/函数/调用	QJsonDocument::toJson
+Qt JSON	/模块/模块/依赖	QJsonObject
+Qt JSON	/模块/模块/依赖	QJsonArray
+Qt 状态机	/模块/模块/包含	QState
+Qt 状态机	/模块/模块/包含	QFinalState
+Qt 状态机	/模块/模块/包含	QSignalTransition
+Qt 状态机	/函数/函数/调用	QStateMachine::start
+Qt 状态机	/函数/函数/调用	QStateMachine::postEvent
+Qt 绘制系统	/函数/函数/调用	QPainter::drawText
+Qt 绘制系统	/函数/函数/调用	QPainter::drawPixmap
+Qt 绘制系统	/模块/模块/依赖	QPaintEvent
+Qt 绘制系统	/模块/模块/包含	QBrush
+Qt 绘制系统	/模块/模块/包含	QPen
+Qt 插件	/模块/模块/包含	QPluginLoader
+Qt 插件	/函数/函数/调用	QPluginLoader::instance
+Qt 插件	/模块/模块/依赖	QFactoryInterface
+Qt 定时器	/函数/函数/调用	QTimer::start
+Qt 定时器	/函数/函数/调用	QTimer::singleShot
+Qt WebEngine	/模块/模块/包含	QWebEngineView
+Qt WebEngine	/函数/函数/调用	QWebEngineView::load
+Qt SQL	/模块/模块/包含	QSqlDatabase
+Qt SQL	/函数/函数/调用	QSqlDatabase::addDatabase
+Qt SQL	/函数/函数/调用	QSqlQuery::exec
+Qt 测试	/模块/模块/包含	QTest
+Qt 测试	/函数/函数/调用	QVERIFY
+Qt 测试	/函数/函数/调用	QCOMPARE
+Qt 构建	/模块/模块/包含	qmake
+Qt 构建	/模块/模块/包含	CMake
+CMake	/函数/函数/调用	find_package(Qt6 COMPONENTS Widgets)
+CMake	/函数/函数/调用	target_link_libraries(Qt6::Widgets)
+Qt 线程安全	/概念/概念/包含	跨线程信号槽
+Qt 线程安全	/概念/概念/包含	对象亲缘性
+对象亲缘性	/函数/函数/调用	QObject::thread
+moc	/概念/概念/包含	元对象代码生成
+moc	/模块/模块/依赖	Q_OBJECT
+Qt 网络	/函数/函数/调用	QNetworkReply::error
+Qt 网络	/函数/函数/调用	QNetworkAccessManager::get
+Qt 资源系统	/函数/函数/调用	QResource::unregisterResource
+Qt 绘制系统	/函数/函数/调用	QPainter::setRenderHint
+Qt MVC	/函数/函数/调用	QSortFilterProxyModel::setFilterRegularExpression
+Qt 线程	/函数/函数/调用	QThread::start
+Qt 线程	/函数/函数/调用	QThread::quit
+Qt 线程	/函数/函数/调用	QThread::wait
+Qt Quick Controls	/模块/模块/包含	CheckBox
+Qt Quick Controls	/模块/模块/包含	Slider
+std::format	/函数/函数/调用	std::make_format_args
+std::span	/函数/函数/调用	data
+std::jthread	/函数/函数/调用	join
+std::stop_token	/函数/函数/调用	stop_requested
+std::barrier	/函数/函数/调用	arrive_and_wait
+std::latch	/函数/函数/调用	count_down
+std::counting_semaphore	/函数/函数/调用	acquire
+QCoreApplication	/函数/函数/调用	arguments
+QStandardPaths	/函数/函数/调用	standardLocations
+QGuiApplication	/函数/函数/调用	primaryScreen
+QClipboard	/函数/函数/调用	image
+QFileDialog	/函数/函数/调用	getOpenFileNames
+QMainWindow	/函数/函数/调用	statusBar
+QNetworkProxy	/函数/函数/调用	applicationProxy
+QSqlDatabase	/函数/函数/调用	isOpen
+QJsonArray	/函数/函数/调用	size
+QJsonObject	/函数/函数/调用	contains
+QDesktopServices	/函数/函数/调用	setUrlHandler
+QUrl	/函数/函数/调用	isLocalFile
+QJsonValue	/函数/函数/调用	toString
+QGuiApplication	/函数/函数/调用	screens
+QApplication	/函数/函数/调用	exec
+QMainWindow	/函数/函数/调用	menuBar
+QAction	/函数/函数/调用	triggered
+QClipboard	/函数/函数/调用	setPixmap
+QIODevice	/函数/函数/调用	readAll
+QIODevice	/函数/函数/调用	write
+QStandardPaths	/函数/函数/调用	locate
+QStandardPaths	/函数/函数/调用	locateAll
+QAbstractItemModel	/函数/函数/调用	index
+QAbstractItemModel	/函数/函数/调用	rowCount
+QAbstractItemView	/函数/函数/调用	setModel
+QCommandLineParser	/函数/函数/调用	addOption
+QCommandLineParser	/函数/函数/调用	parse
+QFile	/函数/函数/调用	remove
+QDir	/函数/函数/调用	homePath
+QProcess	/函数/函数/调用	setProgram
+QProcess	/函数/函数/调用	setArguments
+QObject	/函数/函数/调用	blockSignals
+QVariant	/函数/函数/调用	toString
+QVariant	/函数/函数/调用	toInt
+QByteArray	/函数/函数/调用	fromBase64
+QByteArray	/函数/函数/调用	toBase64
+QProcess	/函数/函数/调用	startDetached
+QFileDialog	/函数/函数/调用	setNameFilters
+QFileDialog	/函数/函数/调用	setDirectory
+QWebEngineView	/函数/函数/调用	setUrl
+QProcess	/函数/函数/调用	readAllStandardError
+QProcess	/函数/函数/调用	waitForReadyRead
+QTemporaryDir	/函数/函数/调用	isValid
+QTemporaryFile	/函数/函数/调用	open
+QProcess	/函数/函数/调用	setProcessEnvironment
+QTemporaryFile	/函数/函数/调用	setAutoRemove
+QFileInfo	/函数/函数/调用	lastModified
+QOpenGLBuffer	/函数/函数/调用	allocate
+QOpenGLBuffer	/函数/函数/调用	write
+QOpenGLBuffer	/函数/函数/调用	setUsagePattern
+QOpenGLVertexArrayObject	/函数/函数/调用	create
+QOpenGLVertexArrayObject	/函数/函数/调用	bind
+QSurfaceFormat	/函数/函数/调用	setProfile
+QSurfaceFormat	/函数/函数/调用	setVersion
+Qt3DRender::QMaterial	/函数/函数/调用	setParameter
+Qt3DRender::QCamera	/函数/函数/调用	setPosition
+Qt3DRender::QCamera	/函数/函数/调用	setViewCenter
+Qt3DRender::QCamera	/函数/函数/调用	setPerspectiveProjection
+Qt3DCore::QEntity	/类/类/包含	Qt3DCore::QComponent
+ObjectModel	/函数/函数/调用	append
+ObjectModel	/函数/函数/调用	insert
+ObjectModel	/函数/函数/调用	move
+ObjectModel	/函数/函数/调用	remove
+ObjectModel	/函数/函数/调用	indexOf
+ObjectModel	/函数/函数/调用	contains
+QSqlDatabase	/函数/函数/调用	setUserName
+QSqlDatabase	/函数/函数/调用	setPassword
+QSqlDatabase	/函数/函数/调用	setDatabaseName
+QTest	/函数/函数/调用	qWaitForWindowExposed
+QTest	/函数/函数/调用	sendEvent
+QSqlQueryModel	/函数/函数/调用	index
+QSqlDatabase	/函数/函数/调用	drivers
+QSqlDatabase	/函数/函数/调用	isDriverAvailable
+Qt Test	/函数/函数/调用	QFETCH
+Qt Test	/函数/函数/调用	QTEST
+std::string	/函数/函数/调用	contains
+std::optional	/函数/函数/调用	and_then
+std::optional	/函数/函数/调用	transform
+QDateTime	/函数/函数/调用	currentDateTime
+QDateTime	/函数/函数/调用	toString
+QTimer	/函数/函数/调用	setInterval
+QTimer	/函数/函数/调用	isActive
+QFileInfo	/函数/函数/调用	absolutePath
+QDir	/函数/函数/调用	tempPath
+std::move_only_function	/函数/函数/调用	operator()
+std::ranges	/函数/函数/调用	find_if
+std::ranges	/函数/函数/调用	starts_with
+std::ranges	/函数/函数/调用	ends_with
+std::filesystem	/函数/函数/调用	file_size
+std::filesystem	/函数/函数/调用	copy_file
+Qt 信号槽	/概念/概念/包含	SLOT
+Qt 资源系统	/方法/原理/应用	:/
+QSortFilterProxyModel	/概念/概念/依赖	QAbstractItemModel
+QVariant	/原理/原理/并列	QVariantMap
+std::filesystem::path	/函数/函数/调用	string
+QJsonValue	/函数/函数/调用	isNull
+QLinearGradient	/函数/函数/调用	setColorAt
+QRadialGradient	/函数/函数/调用	setCenter
+QOpenGLBuffer	/函数/函数/调用	release
+QColorDialog	/函数/函数/调用	getColor
